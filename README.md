@@ -1,2 +1,2 @@
 # shiftedcolor.github.io
-User Landing Page
+User Landing Pages
